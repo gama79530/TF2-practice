@@ -1,2 +1,7 @@
+# Linux
 /.vscode
 /venv
+
+# Windows
+\\.vscode
+\\venv
