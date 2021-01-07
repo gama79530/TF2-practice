@@ -1,0 +1,15 @@
+# Linux
+venv/*
+.vscode/*
+__pycache__/*
+.ipynb_checkpoints/*
+*test*
+*result*
+
+# Windows
+venv\\*
+.vscode\\*
+__pycache__\\*
+.ipynb_checkpoints\\*
+*test*
+*result*
